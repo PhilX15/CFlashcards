@@ -1,0 +1,6 @@
+.vscode/
+build.sh
+*.c
+*.h
+*.o
+*.bin
